@@ -26,4 +26,13 @@
     <img src="https://img.shields.io/badge/-Hackerearth-purple?style=flat-square&logo=Hackerearth&logoColor=white"/>
   </a>
 </p>
-
+<div align="center">
+<img src="https://i.imgur.com/IsS5xkZ.png" width=80 height=80 title="LeetCode" alt="LeetCode">
+<h1>LeetCode Solutions</h1>
+<span>💡 <i>Solutions to <a href="https://leetcode.com/problemset/all/">LeetCode</a> problems in C++, Java, Python, MySQL, etc. This repository focuses on offering readable, consistently styled code across various topics while embracing the latest standards.</i></span>
+<br/>
+<br/>
+<img src="https://img.shields.io/badge/Easy-20/820-5CB85C.svg?style=flat-square" alt="Easy AC Count" />
+<img src="https://img.shields.io/badge/Medium-0/1711-F0AD4E.svg?style=flat-square" alt="Medium AC Count" />
+<img src="https://img.shields.io/badge/Hard-0/732-D9534F.svg?style=flat-square" alt="Hard AC Count" />
+</div>
